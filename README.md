@@ -1,2 +1,3 @@
 # SwiftHare
-Swift functions
+
+A description of this package.
